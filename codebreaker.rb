@@ -32,5 +32,5 @@ class Codebreaker
 
 
 end
-start = Codebreaker.new
-start.play
+# start = Codebreaker.new
+# start.play

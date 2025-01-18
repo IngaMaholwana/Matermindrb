@@ -26,6 +26,6 @@ class Codemaker
     end
   end
 end
-# Instantiate the Codemaker class and call the fact_check method
-start = Codemaker.new
-start.fact_check
+# # Instantiate the Codemaker class and call the fact_check method
+# start = Codemaker.new
+# start.fact_check
